@@ -1,0 +1,9 @@
+E:\Projects\test_task\first\first\bin\Debug\first.exe.config
+E:\Projects\test_task\first\first\bin\Debug\first.exe
+E:\Projects\test_task\first\first\bin\Debug\first.pdb
+E:\Projects\test_task\first\first\obj\Debug\first.csprojAssemblyReference.cache
+E:\Projects\test_task\first\first\obj\Debug\first.csproj.ResolveComReference.cache
+E:\Projects\test_task\first\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+E:\Projects\test_task\first\first\obj\Debug\first.exe
+E:\Projects\test_task\first\first\obj\Debug\first.pdb
+E:\Projects\test_task\first\first\bin\Debug\Docs\testDoc.rtf
