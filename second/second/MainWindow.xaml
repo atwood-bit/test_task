@@ -1,0 +1,16 @@
+﻿<Window x:Class="second.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:second"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="400">
+    <Grid>
+        <Button x:Name="button1" Click="button1_Click" Content="Определить" HorizontalAlignment="Left" Margin="156,132,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Ссылка VK:" HorizontalAlignment="Left" Margin="30,18,0,0" VerticalAlignment="Top" Width="70"/>
+        <Label Content="Статус:" HorizontalAlignment="Left" Margin="30,80,0,0" VerticalAlignment="Top" Width="70"/>
+        <TextBox x:Name="text_url"  HorizontalAlignment="Left" Height="23" Margin="119,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="250"/>
+        <Label x:Name="lb_status" Content="" HorizontalAlignment="Left" Margin="119,80,0,0" VerticalAlignment="Top" Width="250"/>
+    </Grid>
+</Window>
